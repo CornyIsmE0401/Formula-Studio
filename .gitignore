@@ -1,0 +1,28 @@
+# Python & Virtual Environments
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.venv/
+venv/
+build_venv/
+env/
+
+# PyInstaller build artifacts (upload .exe to GitHub Releases instead)
+build/
+dist/
+*.manifest
+*.log
+
+# Local test / scratch / user settings
+selftest_result.txt
+*.geo
+.DS_Store
+Thumbs.db
+dang
+mot
+
+# IDE & Editors
+.vscode/
+.idea/
+*.swp

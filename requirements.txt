@@ -1,0 +1,6 @@
+PySide6
+matplotlib
+# Tùy chọn:
+# rdkit            (bố cục phân tử đẹp hơn - nếu có bản cho Python của bạn)
+# rapid-latex-ocr  (quét ảnh offline - CHỈ Python 3.6-3.12)
+# pywin32          (chèn thẳng vào Word đang mở)
